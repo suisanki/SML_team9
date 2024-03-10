@@ -10,3 +10,5 @@ Data set: Banknote Authentication Dataset from UC Irvine Machine Learning Reposi
 - 5 variables (variance of Wavelet Transformed image, skewness of Wavelet Transformed image, curtosis of Wavelet Transformed image, entropy of image, real/counterfeit flag)
 - No missing value
 - Does not specify the kind of banknote
+
+Research pipeline: https://app.diagrams.net/#G1zp9C6nxs7fXxTEIDuytZW-4W4y_GkdFz#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
