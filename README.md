@@ -12,3 +12,5 @@ Data set: Banknote Authentication Dataset from UC Irvine Machine Learning Reposi
 - Does not specify the kind of banknote
 
 Research pipeline: https://app.diagrams.net/#G1zp9C6nxs7fXxTEIDuytZW-4W4y_GkdFz#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
+
+Visualization: https://colab.research.google.com/drive/1sPFMTm9zgCG-mf0BK9S6ZlpiynWvGs31#scrollTo=bIQIam9gv2ns
